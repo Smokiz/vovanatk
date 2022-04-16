@@ -1,0 +1,10 @@
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\bin\Debug\vovanatk.exe.config
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\bin\Debug\vovanatk.exe
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\bin\Debug\vovanatk.pdb
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.csproj.AssemblyReference.cache
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.Form1.resources
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.Properties.Resources.resources
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.csproj.GenerateResource.cache
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.csproj.CoreCompileInputs.cache
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.exe
+C:\Users\mobil\Desktop\1234\vovanatk\vovanatk\obj\Debug\vovanatk.pdb
